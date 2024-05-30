@@ -10,7 +10,7 @@ body {
     max-width: 70%;
 }
 .zag {
-    font-size: 100rem;
+    font-size: 10rem;
     margin-left: 8rem;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -20,7 +20,7 @@ body {
     text-align: center;
     color: rgb(30, 72, 150);
     font-family: 'Courier New', Courier, monospace;
-    font-size: 100rem;
+    font-size: 10rem;
 }
 .fon {
     background-image: url(Images/Plitka.jpg);
@@ -31,5 +31,5 @@ body {
 .navig {
     margin-left: 8rem;
     padding-top: 2rem;
-    font-size: 50rem;
+    font-size: 5rem;
 }
