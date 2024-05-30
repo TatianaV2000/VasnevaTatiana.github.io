@@ -3,14 +3,14 @@
     margin: 0;
 }
 body {
-   
+   font-size: 2rem;
 }
 .tab {
     padding-left: 10rem;
     max-width: 70%;
 }
 .zag {
-    font-size: 1rem;
+    font-size: ;
     margin-left: 8rem;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -20,7 +20,7 @@ body {
     text-align: center;
     color: rgb(30, 72, 150);
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1rem;
+    font-size: ;
 }
 .fon {
     background-image: url(Images/Plitka.jpg);
@@ -31,5 +31,5 @@ body {
 .navig {
     margin-left: 8rem;
     padding-top: 2rem;
-    font-size: 1rem;
+    font-size: ;
 }
