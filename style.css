@@ -1,3 +1,10 @@
+*{
+    font-size: 62.5%;
+    margin: 0;
+}
+body {
+    font-size: 8rem;
+}
 .tab {
     padding-left: 100px;
     max-width: 70%;
@@ -20,9 +27,6 @@
     background-size: cover;
     background-color: aquamarine;
     padding-bottom: 48px;
-}
-body {
-    margin: 0;
 }
 .navig {
     margin-left: 80px;
