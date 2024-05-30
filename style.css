@@ -1,0 +1,31 @@
+.tab {
+    padding-left: 100px;
+    max-width: 70%;
+}
+.zag {
+    font-size: 25px;
+    margin-left: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.shapka {
+    max-width: 75%;
+    margin: auto;
+    text-align: center;
+    color: rgb(30, 72, 150);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+.fon {
+    background-image: url(Images/Plitka.jpg);
+    background-size: cover;
+    background-color: aquamarine;
+    padding-bottom: 48px;
+}
+body {
+    margin: 0;
+}
+.navig {
+    margin-left: 80px;
+    padding-top: 20px;
+    font-size: 20px;
+}
